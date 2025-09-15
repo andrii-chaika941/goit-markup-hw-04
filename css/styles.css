@@ -484,8 +484,10 @@ ul {
 }
 
 .wrapper {
+  margin-right: 120px;
+}
+
+.footer-container {
   display: flex;
   align-items: baseline;
-  margin-right: 120px;
-  gap: 16px;
 }
