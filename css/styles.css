@@ -486,8 +486,6 @@ ul {
 .wrapper {
   display: flex;
   align-items: baseline;
-}
-
-.social-media-container {
   margin-right: 120px;
+  gap: 16px;
 }
