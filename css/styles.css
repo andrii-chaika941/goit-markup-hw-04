@@ -448,10 +448,6 @@ ul {
   max-width: 264px;
 }
 
-.footer-container {
-  margin-right: 120px;
-}
-
 .footer-text {
   font-weight: 500;
   font-size: 16px;
@@ -490,4 +486,8 @@ ul {
 .wrapper {
   display: flex;
   align-items: baseline;
+}
+
+.social-media-container {
+  margin-right: 120px;
 }
